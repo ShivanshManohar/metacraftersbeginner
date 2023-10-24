@@ -6,7 +6,7 @@ The code contains a token minting and burning function as requested in the asses
 
 <h2> 🌜Get Started </h2>
 <ol> 
-  <li> Copy the code written in <a href = "token-ikigai.sol"> token-ikigai.sol </a>.</li>
+  <li> Copy the code written in Manohar.sol</li>
   <li> Open <a href = "https://remix.ethereum.org/"> Remix </a> IDE in your browser. </li>
   <li> Paste the code in the file. </li>
   <li> To compile the code either press Ctrl+S or click on the Solidity Compiler tab on the left hand sidebar with a S logo on it, choose a compiler version higher than or equal to 0.8.7 and press COMPILE. </li>
